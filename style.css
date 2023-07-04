@@ -1,0 +1,25 @@
+.card {
+    padding: 16px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    background-color: #146dfc;
+    border-bottom: 8px solid hsl(31, 100%, 48%);
+    border-radius: 5px;
+
+}
+
+body {
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.avatar {
+    width: 150px;
+    margin-top: 14px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
